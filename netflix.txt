@@ -4,7 +4,7 @@
 
 
 FINCHE "NON MI ANNOIO 1"=VERO -> PUNTO 3.
-ALTRIMENTI PUNTO 4.
+ALTRIMENTI PUNTO SUCCESSIVO.
     3. - Guardo i Titoli consigliati:
         3.1 - SE: trovo qualcosa di mio gradimento: PUNTO 5.
             - ALTRIMENTI: PUNTO 2.
